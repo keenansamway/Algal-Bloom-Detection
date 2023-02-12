@@ -17,3 +17,6 @@ opencv-python
 lightgbm
 loguru
 typer
+torch
+torchvision
+torchmetrics
