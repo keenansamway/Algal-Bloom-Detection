@@ -20,3 +20,9 @@ typer
 torch
 torchvision
 torchmetrics
+geos
+pyshp
+cartopy **via conda**
+ecmwflibs
+eccodes
+cfgrib

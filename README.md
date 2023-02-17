@@ -20,3 +20,9 @@
 
 ### Elevation Data
 - Copernicus DEM (30m resolution)
+
+## Model Inputs
+- Satellite image
+- Surface temperature
+- Season or Month
+- Region or State
